@@ -1,6 +1,6 @@
-owner=516473846983950336
-prefix=1
+owner=366569932529336320
+prefix=2
 game=Break | -Carcassonne Rewards.
 stayinchannel=true
 songinstatus=false
-token=NTcxNzI3ODY3MDM4NDAwNTMy.XMR9Iw.K_sePnIwxzjKWTItvvKp8wv9U1E
+token=NTcxNzMwNzY2MDQwMzk5ODcy.XMR_6g.m0tlBacZZUcmumRqW7vuKqXOdTc
